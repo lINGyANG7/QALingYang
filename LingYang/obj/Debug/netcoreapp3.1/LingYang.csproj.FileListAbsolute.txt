@@ -1,0 +1,11 @@
+c:\Users\ling\Desktop\QAEngineerChallenge\LingYang\bin\Debug\netcoreapp3.1\LingYang.exe
+c:\Users\ling\Desktop\QAEngineerChallenge\LingYang\bin\Debug\netcoreapp3.1\LingYang.deps.json
+c:\Users\ling\Desktop\QAEngineerChallenge\LingYang\bin\Debug\netcoreapp3.1\LingYang.runtimeconfig.json
+c:\Users\ling\Desktop\QAEngineerChallenge\LingYang\bin\Debug\netcoreapp3.1\LingYang.runtimeconfig.dev.json
+c:\Users\ling\Desktop\QAEngineerChallenge\LingYang\bin\Debug\netcoreapp3.1\LingYang.dll
+c:\Users\ling\Desktop\QAEngineerChallenge\LingYang\bin\Debug\netcoreapp3.1\LingYang.pdb
+c:\Users\ling\Desktop\QAEngineerChallenge\LingYang\obj\Debug\netcoreapp3.1\LingYang.csprojAssemblyReference.cache
+c:\Users\ling\Desktop\QAEngineerChallenge\LingYang\obj\Debug\netcoreapp3.1\LingYang.AssemblyInfoInputs.cache
+c:\Users\ling\Desktop\QAEngineerChallenge\LingYang\obj\Debug\netcoreapp3.1\LingYang.AssemblyInfo.cs
+c:\Users\ling\Desktop\QAEngineerChallenge\LingYang\obj\Debug\netcoreapp3.1\LingYang.dll
+c:\Users\ling\Desktop\QAEngineerChallenge\LingYang\obj\Debug\netcoreapp3.1\LingYang.pdb

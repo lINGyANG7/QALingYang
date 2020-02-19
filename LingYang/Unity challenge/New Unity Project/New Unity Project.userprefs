@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UI\MissionUI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Missions\Missions.cs" Line="104" Column="2" />
+      <File FileName="Assets\Scripts\PlayerData.cs" Line="46" Column="54" />
+      <File FileName="Assets\Scripts\UI\MissionUI.cs" Line="17" Column="28" />
+      <File FileName="Assets\Scripts\Characters\CharacterDatabase.cs" Line="3" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
